@@ -28,6 +28,9 @@
 
 ## Works
 * [Web、UI設計作品](https://www.behance.net/azx011014fa1e)
+* [THE F2E](https://github.com/ToxChen/THE-F2E)
+  * 依照提供的設計稿完成網頁排版，並學習更多技術(例如:CSS Grid)
+  * 依照使用者故事完成相對應的UI設計
 * [個人Portfolio](https://toxchen.github.io/Portfolio/)
   * 使用 Pug 以及 Sass 進行排版規劃
   * 使用 Vue.js 將資料做雙向綁定
