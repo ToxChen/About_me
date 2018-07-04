@@ -23,8 +23,8 @@
 * 對原生 Javascript 有基礎的了解，較常使用 Jquery 做開發與練習。
 * 使用 jQuery 呈現微互動效果、並使用 ajax 抓取第三方 api 資料以及套用 plugin 到網頁上。
 ### Git/GitHub
-* 能夠使用 GitHub Pages 建立一個靜態網頁。
 * 對Git版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
+* 能夠使用 GitHub Pages 建立一個靜態網頁。
 
 ## Works
 * [Web、UI設計作品](https://www.behance.net/azx011014fa1e)
