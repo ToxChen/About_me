@@ -6,24 +6,24 @@
 * Mobile : 0976-386-261
 
 ## Experience
-* 台中榮總 - 教學大樓導覽系統(2018/3 - 現在) : 負責整個系統的UI設計、美術以及動畫製作
+* 台中榮總 - 教學大樓導覽系統(2018/3 - 現在) : 負責整個系統的 UI 設計、美術以及動畫製作
 * Peilou貝柔童襪(2017/4 - 2017-10) : 負責素材繪製以及動畫製作
-* 朝陽科技大學 - 校園導覽系統(2016/12 - 2017/12) : 負責整個系統的UI設計、3D建模(渲染)以及動畫製作
+* 朝陽科技大學 - 校園導覽系統(2016/12 - 2017/12) : 負責整個系統的 UI 設計、 3D 建模(渲染)以及動畫製作
 
 ## Skills
 ### Web、UI Design
-* 使用Photoshop、Illustrator、XD進行Web、UI設計流程、排版並且交付尺寸標示文件，使用VSCode進行網頁切版。
+* 使用 Photoshop 、 Illustrator 、 XD進行 Web 、 UI 設計流程、排版並且交付尺寸標示文件，使用 VSCode 進行網頁切版。
 
-### HTML/CSS/Bootstrap
-* 熟悉HTML5+CSS3完成網頁架構和布局，並且能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
+### Web Layout/Bootstrap
+* 熟悉 HTML5 + CSS3 完成網頁架構和布局，並且能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
 * 能夠使用 CSS Flexbox 做出網頁排版與 RWD 響應式設計。
 * 使用 Pug 以及 Sass 規劃 Web layout 架構。
-* 了解Bootstrap4的常用語法、特性，並且能使用Boostrap進行網頁排版。
+* 了解 Bootstrap4 的常用語法、特性，並且能使用 Boostrap 進行網頁排版。
 ### Javascript/jQuery
-* 對原生 Javascript 有基礎的了解，較常使用 Jquery 做開發與練習。
-* 使用 jQuery 呈現微互動效果、並使用 ajax 抓取第三方 api 資料以及套用 plugin 到網頁上。
+* 對原生 Javascript 有基礎的了解，較常使用 jQuery 做開發與練習。
+* 使用 jQuery 呈現微互動效果、並使用 AJAX 抓取第三方 api 資料以及套用 plugin 到網頁上。
 ### Git/GitHub
-* 對Git版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
+* 對 Git 版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
 * 能夠使用 GitHub Pages 建立一個靜態網頁。
 
 ## Works
