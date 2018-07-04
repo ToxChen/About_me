@@ -6,7 +6,7 @@
 * Mobile : 0976-386-261
 
 ## Experience
-* 台中榮總 - 教學大樓導覽系統(2018/3 - 現在) : 負責整個系統的 UI 設計、美術以及動畫製作
+* 台中榮總 - 教學大樓導覽系統 (2018/3 - 現在) : 負責整個系統的 UI 設計、美術以及動畫製作
 * Peilou貝柔童襪(2017/4 - 2017/10) : 負責素材繪製以及動畫製作
 * 朝陽科技大學 - 校園導覽系統(2016/12 - 2017/12) : 負責整個系統的 UI 設計、 3D 建模(渲染)以及動畫製作
 
@@ -32,7 +32,7 @@
 
 ## Works
 * [THE F2E 網頁設計](https://www.behance.net/gallery/67447679/THE-F2E-Challenge)
-  * 使用 XD 搭配 Photoshop、Illustrator 進行色彩規劃、網頁排版
+  * 使用 XD 搭配 Photoshop、Illustrator 進行色彩規劃、設計流程、網頁排版
   * 依照每週的使用者故事完成相對應的設計稿
 * [Daily UI 設計](https://www.behance.net/azx011014fa1e)
   * 透過 Daily UI 每日實作一個使用者介面、網頁
