@@ -7,13 +7,14 @@
 
 ## Experience
 * 台中榮總 - 教學大樓導覽系統(2018/3 - 現在) : 負責整個系統的 UI 設計、美術以及動畫製作
-* Peilou貝柔童襪(2017/4 - 2017-10) : 負責素材繪製以及動畫製作
+* Peilou貝柔童襪(2017/4 - 2017/10) : 負責素材繪製以及動畫製作
 * 朝陽科技大學 - 校園導覽系統(2016/12 - 2017/12) : 負責整個系統的 UI 設計、 3D 建模(渲染)以及動畫製作
 
-## Skills
+## Design Skills
 ### Web、UI Design
 * 使用 Photoshop 、 Illustrator 、 XD進行 Web 、 UI 設計流程、排版並且交付尺寸標示文件，使用 VSCode 進行網頁切版。
 
+## Front end Skills
 ### Web Layout/Bootstrap
 * 熟悉 HTML5 + CSS3 完成網頁架構和布局，並且能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
 * 能夠使用 CSS Flexbox 做出網頁排版與 RWD 響應式設計。
@@ -38,7 +39,7 @@
   * 使用 Sass 進行排版規劃
   * 不依賴 Framework 進行 RWD 客製化
 * [高雄旅遊景點](https://toxchen.github.io/KaohsiungTravel/)
-  * 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。
+  * 使用政府開放平台抓取 JSON 資料，並透過 Javascript / AJAX 呈現在網頁上。
 
 ## Introduction
 * 自從接觸到網頁設計後，就對此抱持著很大的興趣並不斷精進自己，期許自己能夠成為獨當一面的前端設計師。
