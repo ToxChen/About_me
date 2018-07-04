@@ -13,7 +13,7 @@
 ## Design Skills
 ### Photoshop、Illustrator
 * 使用 Photoshop
-* 使用 Illustrator 繪製插圖、形象 Logo 、Icons...等。
+* 使用 Illustrator 繪製向量插圖、形象 Logo 、Icons ... 等。
 ### Adobe XD
 * 使用XD進行 Web 、 UI 設計流程、排版並且交付尺寸標示文件。
 
