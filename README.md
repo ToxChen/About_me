@@ -11,9 +11,9 @@
 * 朝陽科技大學 - 校園導覽系統(2016/12 - 2017/12) : 負責整個系統的 UI 設計、 3D 建模(渲染)以及動畫製作
 
 ## Design Skills
-### Photoshop、Illustrator
+### Photoshop 、 Illustrator
 * 使用 Photoshop
-* 使用 Illustrator 繪製向量插圖、形象 Logo 、Icons ... 等。
+* 使用 Illustrator 繪製向量插圖、形象 Logo 、 Icons ... 等。
 ### Adobe XD
 * 使用XD進行 Web 、 UI 設計流程、排版並且交付尺寸標示文件。
 
@@ -31,6 +31,7 @@
 * 能夠使用 GitHub Pages 建立一個靜態網頁。
 
 ## Works
+* Daily UI 設計作品
 * [Web、UI設計作品](https://www.behance.net/azx011014fa1e)
 * [THE F2E](https://github.com/ToxChen/THE-F2E)
   * 依照提供的設計稿完成網頁排版，並學習更多技術(例如:CSS Grid)
