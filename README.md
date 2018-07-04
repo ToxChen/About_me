@@ -11,8 +11,11 @@
 * 朝陽科技大學 - 校園導覽系統(2016/12 - 2017/12) : 負責整個系統的 UI 設計、 3D 建模(渲染)以及動畫製作
 
 ## Design Skills
-### Web、UI Design
-* 使用 Photoshop 、 Illustrator 、 XD進行 Web 、 UI 設計流程、排版並且交付尺寸標示文件，使用 VSCode 進行網頁切版。
+### Photoshop、Illustrator
+* 使用 Photoshop
+* 使用 Illustrator 繪製插圖、形象 Logo 、Icons...等。
+### Adobe XD
+* 使用XD進行 Web 、 UI 設計流程、排版並且交付尺寸標示文件。
 
 ## Front end Skills
 ### Web Layout/Bootstrap
