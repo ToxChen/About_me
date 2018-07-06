@@ -15,7 +15,7 @@
   * 與各組員進行溝通協調，並定期開會討論最新進度
 ## Design Skills
 ### Photoshop、Illustrator
-* 能依照不同需求使用 Photoshop 與 Illustrator 完成 Web、UI 相關設計，如影像處理、插圖繪製、品牌 Logo、網頁 icon 等製作。
+* 熟悉 Photoshop 與 Illustrator 操作及應用，能依照不同需求使用 Photoshop 與 Illustrator 完成 Web、UI 相關設計，如影像處理、插圖繪製、品牌 Logo、網頁 icon 等製作。
 ### Adobe XD
 * 繪製 Wireframe 線框稿來呈現頁面主要的資訊、排版與架構
 * 使用 XD 搭配 Photoshop、Illustrator 進行 Web、UI 色彩規劃、介面設計，最終交付尺寸標示文件。
