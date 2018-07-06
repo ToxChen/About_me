@@ -6,20 +6,24 @@
 * Mobile : 0976-386-261
 
 ## Experience
-* 台中榮總 - 教學大樓導覽系統 (2018/3 - 現在) : 負責整個系統的 UI 設計、美術以及動畫製作
-* Peilou貝柔童襪(2017/4 - 2017/10) : 負責素材繪製以及動畫製作
-* 朝陽科技大學 - 校園導覽系統(2016/12 - 2017/12) : 負責整個系統的 UI 設計、 3D 建模(渲染)以及動畫製作
-
+* 台中榮總 - 教學大樓導覽系統 ( 2018/3 - 目前 )
+  * 負責整個系統的 UI 介面設計
+  * 負責角色、場景繪製，並使用 After Effects 進行動畫製作
+* 朝陽科技大學 - 校園導覽系統 ( 2016/12 - 2017/12 )
+  * 負責整個系統的 UI 介面設計
+  * 負責 3D 建模，並將其渲染出來進行後期動畫製作
+  * 與各組員進行溝通協調，並定期開會討論最新進度
 ## Design Skills
 ### Photoshop、Illustrator
-* 使用 Photoshop 進行影像調色、合成，並且能與 Illustrator 進行搭配。
-* 使用 Illustrator 繪製向量插圖、形象 Logo、Icon。
+* 能依照不同需求使用 Photoshop 與 Illustrator 完成 Web、UI 相關設計，如影像處理、插圖繪製、品牌 Logo、網頁 icon 等製作。
 ### Adobe XD
-* 使用 XD 搭配 Photoshop、Illustrator 進行 Web、UI 色彩規劃、設計流程、網頁排版，最後交付尺寸標示文件。
+* 繪製 Wireframe 線框稿來呈現頁面主要的資訊、排版與架構
+* 使用 XD 搭配 Photoshop、Illustrator 進行 Web、UI 色彩規劃、介面設計，最終交付尺寸標示文件。
+* 利用 XD 內建的 Prototype 進行原型展示。
 
 ## Front end Skills
 ### Web Layout/Bootstrap
-* 熟悉 HTML5 + CSS3 完成網頁架構和布局，並且能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
+* 熟悉 HTML5 + CSS3 完成網頁架構和布局，並且能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網頁。
 * 能夠使用 CSS Flexbox 做出網頁排版與 RWD 響應式設計。
 * 使用 Pug 以及 Sass 規劃 Web Layout 架構。
 * 了解 Bootstrap4 的常用語法、特性，並且能使用 Boostrap 進行網頁排版。
@@ -32,8 +36,8 @@
 
 ## Works
 * [THE F2E 網頁設計](https://www.behance.net/gallery/67447679/THE-F2E-Challenge)
-  * 使用 XD 搭配 Photoshop、Illustrator 進行色彩規劃、設計流程、網頁排版
-  * 依照每週的使用者故事完成相對應的設計稿
+  * 使用 XD 搭配 Photoshop、Illustrator 進行色彩規劃、介面設計
+  * 依照每週的使用者故事設計符合情境的設計稿
 * [Daily UI 設計](https://www.behance.net/azx011014fa1e)
   * 透過 Daily UI 每日實作一個使用者介面、網頁
   * 熟悉不同情形的介面應該如何設計，色彩應該如何規劃
