@@ -8,10 +8,11 @@
 * 台中榮總 - 教學大樓導覽系統 ( 2018/3 - 目前 )
   * 負責整個系統的 UI 介面設計
   * 負責角色、場景繪製，並使用 After Effects 進行動畫製作
+  * 以生動活潑的動畫讓使用者在沒負擔的情況下吸收知識
 * 朝陽科技大學 - 校園導覽系統 ( 2016/12 - 2017/12 )
   * 負責整個系統的 UI 介面設計
   * 負責大部分 3D 建模，並將其渲染出來進行後期動畫製作
-  * 與各組員進行溝通協調，並定期開會掌握進度
+  * 讓使用者在遊玩的過程中逐漸了解朝陽科技大學的特色，進而達到我們的目的
 ## Design Skills
 ### Photoshop、Illustrator
 * 熟悉 Photoshop 與 Illustrator 的操作及應用，能依照不同需求使用 Photoshop 與 Illustrator 完成 Web、UI 相關設計，如影像處理、插圖繪製、品牌 Logo、網頁 icon 等製作。
@@ -38,7 +39,7 @@
   * 使用 XD 搭配 Photoshop、Illustrator 進行從 Wireframe、Mockup、Prototype 一個完整的設計流程。
   * 依照每週的使用者故事設計符合情境的設計稿
 * Daily UI 設計 - [Behance連結](https://www.behance.net/azx011014fa1e)
-  * 透過 Daily UI 每日觀看大量設計作品、蒐集資料
+  * 透過 Daily UI 每日觀看大量設計作品，並逐漸掌握個人的設計風格
   * 熟悉不同主題的介面應該如何設計，色彩應該如何規劃
 * 個人Portfolio - [GitHub Pages連結](https://toxchen.github.io/Portfolio/)
   * 使用 Pug 以及 Sass 進行排版規劃
