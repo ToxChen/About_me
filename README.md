@@ -3,7 +3,7 @@
 * Personal Website : https://toxchen.github.io/Portfolio/
 * Location : Taichung, Taiwan
 * E-Mail : azx011014@gmail.com
-* Mobile : 0976-386-261
+* Mobile : +886 976 386261
 ## Experience
 * 台中榮總 - 教學大樓導覽系統 ( 2018/3 - 目前 )
   * 負責整個系統的 UI 介面設計
